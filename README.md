@@ -1,4 +1,4 @@
-# mitmproxy for Termux
+# Mitmproxy for Android
 
 Install and run **mitmproxy** on Android through Termux using a Debian
 userspace and a Python virtual environment.
